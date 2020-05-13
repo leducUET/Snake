@@ -32,7 +32,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Snejk"
+config/name="Snake"
 run/main_scene="res://SnakeWorld.tscn"
 config/icon="res://icon.png"
 
